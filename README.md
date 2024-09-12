@@ -1,13 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Herwal! 
 
-<!--
-**Herwal/Herwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about exploring **web development** and **Computer Science** and working on exciting projects while constantly learning and growing. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on:  
+  - Web development projects, including **Next.js** and **React**!  
+- 🌱 I’m currently learning:  
+  - **Next.js**, **React**, and expanding my web development skills.
+  - **Haskell**, **C** and datastructures in **Java**.
+- 💬 Ask me about:  
+  - Anything about **biology**!  
+- 📫 How to reach me:  
+  - No
+---
 
-- 🔭 I’m currently working on studies and projects!
-- 🌱 I’m currently learning web development and bioinformatic analysis.
-- 🤔 I’m looking for help with understanding react.
-- 💬 Ask me about python, dogs and biology.
-- 📫 How to reach me: dm.
-- ⚡ Fun fact: no clue what i'm doing.
+✨ _I believe in the power of tech to solve real-world problems, and I'm excited to continue learning and building impactful solutions!_ ✨
