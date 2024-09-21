@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Hermann! 
 
-I'm passionate about exploring **web development**, **Computer Science** and working on exciting projects while constantly learning and growing. Here's a bit about me:
+I'm passionate about exploring **web development** and **Computer Science** and working on exciting projects while constantly learning and growing. Here's a bit about me:
 
 - 🔭 I’m currently working on:  
   - Web development projects, using **Next.js** 
